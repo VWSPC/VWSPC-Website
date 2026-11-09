@@ -13,7 +13,6 @@ export default defineConfig({
         'wound-care': resolve(__dirname, 'services/wound-care.html'),
         psychiatry: resolve(__dirname, 'services/psychiatry.html'),
         insurances: resolve(__dirname, 'patients/insurances.html'),
-        forms: resolve(__dirname, 'patients/forms.html'),
         contact: resolve(__dirname, 'contact.html'),
         terms: resolve(__dirname, 'legal/terms.html'),
         privacy: resolve(__dirname, 'legal/privacy.html'),

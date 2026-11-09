@@ -9,8 +9,7 @@ This sitemap is designed to optimize content delivery, improve SEO, and build tr
 - **URL**: `/`
 - **Goal**: High-level overview of services, value proposition ("Care where you are"), and clear paths to conversion.
 - **Key Modules**:
-  - Hero with Primary CTA: "Book Online" (Link: https://forms.office.com/Pages/ResponsePage.aspx?id=yoSnSIIt1kySA3iKbPnnkLluqU0jCtxDqAVS8IGYrhxUMFpCN0s0TFkzT0QzMTA2Rlc0VjFRRUg3Si4u).
-  - Secondary CTA: "Call Us" (313-403-8787).
+  - Hero CTA: "Call to Schedule" (313-403-8787).
   - "Why Choose Us" (Convenience, Expertise).
   - Service Snapshots (Wound Care, Primary Care, Psychiatry).
   - Map of Service Areas.
@@ -37,9 +36,6 @@ This sitemap is designed to optimize content delivery, improve SEO, and build tr
   - **URL**: `/patients/insurances`
   - **Goal**: Reduce financial friction.
   - **Key Content**: Categorized list of providers (Medicare, PPOs, etc.).
-  - **URL**: `/patients/forms`
-  - **Goal**: HIPAA-compliant intake via Microsoft Forms.
-  - **Key Content**: "Start Intake Form" button (Link: https://forms.office.com/Pages/ResponsePage.aspx?id=yoSnSIIt1kySA3iKbPnnkLluqU0jCtxDqAVS8IGYrhxUMFpCN0s0TFkzT0QzMTA2Rlc0VjFRRUg3Si4u).
 
 ### About Us (Dropdown)
 
